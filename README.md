@@ -33,8 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ishankuukey/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ishankuukey/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1768-merge-strings-alternately](https://github.com/Ishankuukey/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ishankuukey/Leetcode/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Ishankuukey/Leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
