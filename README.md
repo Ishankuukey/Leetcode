@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ishankuukey/Leetcode/tree/master/0013-roman-to-integer) |
+| [0415-add-strings](https://github.com/Ishankuukey/Leetcode/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ishankuukey/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ishankuukey/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0415-add-strings](https://github.com/Ishankuukey/Leetcode/tree/master/0415-add-strings) |
 | [1768-merge-strings-alternately](https://github.com/Ishankuukey/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/Ishankuukey/Leetcode/tree/master/1768-merge-strings-alternately) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Ishankuukey/Leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
