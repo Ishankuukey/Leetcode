@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ishankuukey/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Ishankuukey/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ishankuukey/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Ishankuukey/Leetcode/tree/master/0415-add-strings) |
+## Sorting
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ishankuukey/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
