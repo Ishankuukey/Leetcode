@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Ishankuukey/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Ishankuukey/Leetcode/tree/master/0014-longest-common-prefix) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ishankuukey/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ishankuukey/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
