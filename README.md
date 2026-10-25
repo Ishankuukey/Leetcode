@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ishankuukey/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Ishankuukey/Leetcode/tree/master/0148-sort-list) |
 ## Database
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ishankuukey/Leetcode/tree/master/0148-sort-list) |
 | [1768-merge-strings-alternately](https://github.com/Ishankuukey/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Simulation
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ishankuukey/Leetcode/tree/master/0148-sort-list) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ishankuukey/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Prefix Sum
 |  |
@@ -77,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ishankuukey/Leetcode/tree/master/0100-same-tree) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ishankuukey/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ishankuukey/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
